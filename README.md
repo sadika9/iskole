@@ -12,7 +12,7 @@ File: src/application/config/database.php
 hostname = localhost
 username = user
 password = password
-database = student
+database = school
 ```
 
 ### Application Environment
