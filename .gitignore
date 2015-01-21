@@ -8,3 +8,4 @@
 
 # KDE Kate
 *.kate-swp
+/nbproject/private/
