@@ -8,4 +8,6 @@
 
 # KDE Kate
 *.kate-swp
+
+#NetBeans
 /nbproject/private/
