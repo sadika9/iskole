@@ -26,3 +26,9 @@ Valid settings:
 
 ```
 define('ENVIRONMENT', 'development');
+
+Change encryption key in src/application/config/config.php
+
+```
+encryption_key = demo_encryption_key_1234
+```
