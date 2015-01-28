@@ -441,6 +441,7 @@ COMMIT;
 START TRANSACTION;
 USE `school`;
 INSERT INTO `school`.`groups` (`id`, `name`, `description`) VALUES (1, 'ADMIN', 'Administrator Group');
+INSERT INTO `school`.`groups` (`id`, `name`, `description`) VALUES (2, 'MEMBER', 'Default User Group');
 
 COMMIT;
 
