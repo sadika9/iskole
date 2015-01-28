@@ -32,3 +32,14 @@ Change encryption key in src/application/config/config.php
 ```
 encryption_key = demo_encryption_key_1234
 ```
+
+### Default Settings
+
+To login system uses the username (this can be change to use email by changing $config['identity'] field in src/application/config/ion_auth.php)
+
+Administrator Details:
+```
+username: admin
+email:    admin@iskole.com
+passowrd: passowrd
+```
